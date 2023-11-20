@@ -1,0 +1,7 @@
+.main-container {
+  background-color: #cbd0d58d;
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  justify-content: space-around;
+}
