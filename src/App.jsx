@@ -1,6 +1,6 @@
-import Navbar from "./components/Navbar";
 import "./App.css";
 import Home from "./Pages/Home";
+import Navbar from "./Components/Navbar";
 import { useEffect, useState } from "react";
 import useSetDetails from "./hooks/useSetData";
 const App = () => {
